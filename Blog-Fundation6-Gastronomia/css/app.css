@@ -1,0 +1,78 @@
+
+body{
+   background:url(../Imagenes/fondo.jpg);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+
+   margin-top: 0px;
+   margin-bottom: 0px;
+   margin-right: 20px;
+   margin-left: 20px;
+}
+
+.bannerlogo{
+    background: #074e69;
+    text-align: justify;
+}
+
+.fondo{
+   background:rgba(237, 192, 139, 0.71);
+}
+
+.bannerlogo .logo{
+     width: 10%;
+     height: 20%;
+     padding: 0.5rem  0.5rem;
+}
+
+.bloqueiz{
+   background:rgba(255, 68, 9, 0.65);
+}
+
+.docs-component-inner {
+    align-items: center: 1.5625rem;
+
+}
+
+
+.A1 {
+    background: rgba(123, 167, 189, 0.44);
+
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding: 0.10rem  0.50rem;
+    color: rgb(0, 0, 0);
+    width: 90%;
+    height: 20%;
+
+    }
+    .A1 h3{
+        background: rgba(109, 198, 242, 0.79);
+        color: rgb(255, 131, 17);
+        text-align: center;
+        text-decoration: underline;
+        text-decoration-color: red;
+        }
+
+
+.menu{
+  margin-right: 2px;
+  margin-left: 2px;
+  padding: 2rem 10px 1.5rem;
+  text-align: justify;
+  color: red;
+  }
+
+    .menuv{
+        width: 70%;
+        height: 20%;
+        }
+
+#mb {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 1rem 0 1.5rem;
+    color: rgb(255, 255, 255);
+
+    }

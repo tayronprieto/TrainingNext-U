@@ -1,0 +1,29 @@
+body {
+    background-image: url("../Img/fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#contenido-del-sitio {
+    background-color: white;
+}
+
+section {
+    background-color: rgba(133, 133, 133, 0.55);
+}
+
+}
+header {
+    background-color: White;
+}
+
+#notas {
+   background-color: white;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+
+}

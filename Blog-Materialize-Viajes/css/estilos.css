@@ -1,0 +1,57 @@
+
+#body{
+   background:url(../imagenes/fondo.png);
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+
+   margin-top: 0px;
+   margin-bottom: 0px;
+   margin-right: 20px;
+   margin-left: 20px;
+}
+
+nav {
+    background: #6a71b5;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100%;
+}
+
+.brand-logo{
+
+  width: 20%;
+  height: 20%;
+
+}
+
+.ima  {
+    margin-top: 10px;
+    width: 100%;
+    height:100%;
+}
+.ima6  {
+    margin-top: 10px;
+    width: 200%;
+    height:100%;
+}
+.redes  {
+    margin-top: 10px;
+    width: 200%;
+    height:100%;
+}
+
+.texto1  {
+    background: #00c7f2;
+    color: rgb(255, 255, 255);
+}
+.texto2  {
+    background: #212121;
+    color: rgb(255, 255, 255);
+}
+
+
+.footer  {
+    background: #757575;
+    color: rgb(255, 255, 255);
+}
